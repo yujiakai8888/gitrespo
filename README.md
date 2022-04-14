@@ -10,7 +10,7 @@ Project structure
 Contribution
 
     Yu Jiakai(212320029@hdu.edu.cn) -- completed some basic operations.
-    Kang Jiale(212320026) -- fix Bugs and test.
+    Kang Jiale(212320026@hdu.edu.cn) -- fix Bugs and test.
 
 Changelog
 
